@@ -1,1 +1,2 @@
-console.log("version: 2.0.0")
+console.log("version: 10.0.0")
+console.log("man")
